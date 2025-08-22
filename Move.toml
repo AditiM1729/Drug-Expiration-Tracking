@@ -1,0 +1,15 @@
+[package]
+name = "Drug-Expiration-Tracking"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x3d2a579939c1585b86ba5506ef79be4434609f9a50e72027a0d6f2dd22122083"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
