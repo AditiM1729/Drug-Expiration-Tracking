@@ -42,4 +42,5 @@ To create a decentralized, transparent, and tamper-proof system for pharmaceutic
 - Supply chain transparency
 - Regulatory compliance
 
-<img width="1920" height="1020" alt="Screenshot 2025-08-22 112854" src="https://github.com/user-attachments/assets/3e8d9801-bdd2-4dd1-9a96-a76556419f48" />
+<img width="1920" height="967" alt="Screenshot 2025-08-22 112854" src="https://github.com/user-attachments/assets/68a7e811-676c-4018-8a29-b4e3ffff152f" />
+
